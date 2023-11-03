@@ -1,2 +1,4 @@
 # Minimum-Spanning-Tree
-Implementation of an algorithm capable of identifying k-clusters for a set of points and the tree of a graph using minimum spanning tree.
+
+## Introduction
+Implementation of an algorithm capable of identifying __k-clusters__ for a set of points in a graph using __minimum spanning tree__ concept.
